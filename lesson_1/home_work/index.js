@@ -39,12 +39,12 @@ try {
   console.log(userAccont);
 } catch (err) {
   console.log("error_2");
-} // попытка изменить переменную с типом obj,объявленную через const
+} // попытка изменить переменную с типом object,объявленную через const
 
 let userAlex = { weight: 56, height: 175 };
 userAlex = { weight: 55, height: 174 };
-console.log(userAlex); // попытка изменить переменную с типом obj,объявленную через let
+console.log(userAlex); // попытка изменить переменную с типом object,объявленную через let
 
 var userAlexandr = { weight: 58, height: 178 };
 userAlexandr = { weight: 54, height: 173 };
-console.log(userAlexandr); // попытка изменить переменную с типом obj,объявленную через var
+console.log(userAlexandr); // попытка изменить переменную с типом object,объявленную через var
