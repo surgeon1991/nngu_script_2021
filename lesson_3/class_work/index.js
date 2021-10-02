@@ -28,15 +28,15 @@
 
 // console.log(Number(voidString));
 
-Boolean;
+// Boolean;
 
-const value = "";
+// const value = "";
 
-console.log(typeof Boolean(value), Boolean(value));
+// console.log(typeof Boolean(value), Boolean(value));
 
-const obj = [].length;
+// const obj = [].length;
 
-console.log(Boolean(obj));
+// console.log(Boolean(obj));
 
 //математические операторы
 
