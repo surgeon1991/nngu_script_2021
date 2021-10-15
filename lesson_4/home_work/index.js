@@ -318,3 +318,11 @@
 // console.log(b);
 //6
 //8
+let a = 1000;
+let b = 0;
+
+while (a > 50) {
+  a = a / 2;
+  b += 1;
+}
+console.log(b);
